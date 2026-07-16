@@ -5,7 +5,7 @@ public class Employee {
     private int id;
     private String name;
     private String department;
-    private  String email;
+    private String email;
 
     public Employee() {
     }
@@ -17,7 +17,7 @@ public class Employee {
         this.email = email;
     }
 
-    public  String getEmail(){
+    public String getEmail(){
         return email;
     }
 
