@@ -1,0 +1,11 @@
+git branch
+
+git branch feature
+
+git checkout feature
+
+git switch feature
+
+git merge feature
+
+git branch -d feature

@@ -1,0 +1,16 @@
+Service Models
+
+IaaS  → Infrastructure as a Service
+
+PaaS  → Platform as a Service
+
+SaaS  → Software as a Service
+
+
+Deployment Models
+
+Public Cloud
+
+Private Cloud
+
+Hybrid Cloud

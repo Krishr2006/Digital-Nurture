@@ -1,0 +1,16 @@
+Developer
+    │
+    ▼
+Git Repository
+    │
+    ▼
+Build
+    │
+    ▼
+Test
+    │
+    ▼
+Deploy
+    │
+    ▼
+Monitor
